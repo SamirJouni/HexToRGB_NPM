@@ -50,3 +50,5 @@
 
 		return convertedColor;
 	}
+
+	module.exports = convertColor;
