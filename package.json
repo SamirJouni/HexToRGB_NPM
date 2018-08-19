@@ -1,0 +1,26 @@
+{
+  "name": "hex-to-rgb",
+  "version": "1.0.0",
+  "description": "convert color codes easily between rgb and hex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamirJouni/HexToRGB_NPM.git"
+  },
+  "keywords": [
+    "hex",
+    "rgb",
+    "color",
+    "codes",
+    "convert"
+  ],
+  "author": "Samir Jouni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamirJouni/HexToRGB_NPM/issues"
+  },
+  "homepage": "https://github.com/SamirJouni/HexToRGB_NPM#readme"
+}
