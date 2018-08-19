@@ -1,4 +1,4 @@
-# HexToRGB_NPM
+# hex_a-to-rgb
 
 ## How To Use:
 
