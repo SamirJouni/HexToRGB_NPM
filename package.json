@@ -1,5 +1,5 @@
 {
-  "name": "hex-to-rgb",
+  "name": "hex_a-to-rgba",
   "version": "1.0.0",
   "description": "convert color codes easily between rgb and hex",
   "main": "index.js",
