@@ -1,6 +1,6 @@
 {
   "name": "hex_a-to-rgba",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "convert color codes easily between rgb and hex",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "codes",
     "convert"
   ],
-  "author": "Samir Jouni",
+  "author": "Samir Jouni <contact@samirjouni.com> (https://samirjouni.com)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SamirJouni/HexToRGB_NPM/issues"
