@@ -1,5 +1,5 @@
 [![npm version](https://badge.fury.io/js/hex_a-to-rgba.svg)](https://badge.fury.io/js/hex_a-to-rgba)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/SamirJouni)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/SamirJouni)
 
 # hex_a-to-rgba
 
